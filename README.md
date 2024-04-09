@@ -1,6 +1,6 @@
 # [CDV03] Starter CV for Software Development Role
 
-link: https://drive.google.com/file/d/14yUXkVOu--ZfKrhQGfigkApvGKFULVmF/view?usp=drive_link
+link: https://drive.google.com/file/d/10Ngca6wOUAz1YHP3e7V6hU5bjyZGr6fX/view?usp=sharing
 Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
 
 ## Project Overview
